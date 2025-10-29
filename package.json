@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@aduh95/viz.js": "^3.7.0",
-    "@solidity-parser/parser": "^0.20.1",
+    "@solidity-parser/parser": "^0.20.2",
     "axios": "^1.10.0",
     "axios-debug-log": "^1.0.0",
     "cli-color": "^2.0.4",
